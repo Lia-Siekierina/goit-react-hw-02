@@ -1,0 +1,14 @@
+.Container {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.Notification {
+  margin-top: 15px;
+  color: #390a6b;
+  font-size: 18px;
+  font-weight: bold;
+}
